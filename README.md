@@ -31,10 +31,9 @@
 ---
 
 ## 📫 Connect with Me  
-- 🌍 Portfolio: [Your Portfolio Link]  
-- 💼 LinkedIn: [Your LinkedIn Profile]  
+- 💼 LinkedIn:   
 - 🐦 Twitter: [Your Twitter Handle]  
-- 📧 Email: [Your Email Address]  
+- 📧 Email: artahmid87@gmail.com
 
 ---
 
