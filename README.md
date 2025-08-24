@@ -31,10 +31,8 @@
 ---
 
 ## 📫 Connect with Me  
-- 💼 LinkedIn:   
-- 🐦 Twitter: [Your Twitter Handle]  
+- 💼 LinkedIn: https://bd.linkedin.com/in/ar-tahmid-3298b3312
 - 📧 Email: artahmid87@gmail.com
 
 ---
-
 ⭐️ From [AR Tahmid](https://github.com/artahmid87)
